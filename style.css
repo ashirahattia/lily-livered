@@ -105,6 +105,10 @@ footer {
 		padding: 0px;
 	}
 
+	.footerwrapper {
+		position: relative;
+	}
+
 }
 
 @media (max-width: 300px) {
